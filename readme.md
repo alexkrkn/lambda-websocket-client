@@ -8,7 +8,7 @@ Source code for the lambda function from the screencast <a href="https://youtu.b
 
 The backend lambda code is [here](https://github.com/alexkrkn/lambda-websocket-server)
 
-# Deploy to AWS
+# Run
 
 - setup and run the [WebSocket](https://github.com/alexkrkn/lambda-websocket-server)
 - copy the websocket url <a href="https://youtu.be/BcWD-M2PJ-8?t=1103">as described</a> in the video to [this constant](src/App.tsx#L4)
