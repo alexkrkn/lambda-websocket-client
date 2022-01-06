@@ -4,7 +4,7 @@
 
 # Description
 
-Source code for the lambda function from the screencast <a href="https://youtu.be/BcWD-M2PJ-8" target="_blank">How to build a chat using Lambda + WebSocket + API Gateway? (nodejs)</a>
+Source code for the reactjs client from the screencast <a href="https://youtu.be/BcWD-M2PJ-8" target="_blank">How to build a chat using Lambda + WebSocket + API Gateway? (nodejs)</a>
 
 The backend lambda code is [here](https://github.com/alexkrkn/lambda-websocket-server)
 
